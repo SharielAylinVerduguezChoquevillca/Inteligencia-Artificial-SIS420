@@ -1,4 +1,4 @@
-# Regresión logística binaria con dataset de Autismo — README corto
+# Regresión logística binaria con dataset de Autismo
 
 Entrené y validé un modelo de **regresión logística binaria** en el cuadernillo `lab3_autismo.ipynb`. Incluí el gráfico de costo, predicciones y una evaluación clara en datos de prueba.
 
